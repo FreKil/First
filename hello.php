@@ -1,7 +1,7 @@
 <!-- V.02 -->
 <html>
 <head>
-	<title>Min Git-fil</title>
+	<title>Min Git-fil, Version 3</title>
 </head>
 <body>
 <?php
